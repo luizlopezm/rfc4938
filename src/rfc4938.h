@@ -60,7 +60,7 @@
 //#define PPPOEBINARY "/usr/sbin/pppoe"
 #define PPPOEBINARY "./pppoe"
 #define MAXFILENAME ( 50 )
-#define CONFIGPATH "./rfc4938.conf"
+#define CONFIGPATH "../conf/rfc4938.conf"
 #define LNLEN ( 100 )
 #define SHOWLEN ( LNLEN * (get_max_nbrs() + 1) )
 #define MAXARGS ( 20 )
